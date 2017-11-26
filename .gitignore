@@ -7,4 +7,5 @@ xcuserdata/
 *.xcworkspace/
 GoogleService-Info.plist
 firebase-debug.log
+node_modules
 
