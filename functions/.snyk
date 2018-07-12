@@ -12,3 +12,7 @@ patch:
         patched: '2018-07-12T15:52:09.682Z'
     - firebase-admin > jsonwebtoken > joi > topo > hoek:
         patched: '2018-07-12T15:52:09.682Z'
+    - firebase-functions > jsonwebtoken > joi > hoek:
+        patched: '2018-07-12T16:52:07.516Z'
+    - firebase-functions > jsonwebtoken > joi > topo > hoek:
+        patched: '2018-07-12T16:52:07.516Z'
